@@ -1,0 +1,172 @@
+[
+  {
+    "id": "1",
+    "name": "All Paws on Deck Animal Rescue",
+    "description": "All Paws on Deck is a 501 (c) (3) nonprofit dog rescue organization based in Connecticut that is dedicated to rescuing and rehoming pregnant dogs and their puppies.",
+    "email": "AllpawsFL@gmail.com",
+    "website": "",
+    "phone": "",
+    "location": "Connecticut",
+    "specialties": ["Pregnant Dogs", "Puppies", "Dogs"]
+  },
+  {
+    "id": "2", 
+    "name": "A Better Life Rescue",
+    "description": "A Better Life – Pet Rescue, Inc. helps to promote the adoption of rescued animals throughout Central Florida. We believe that every animal deserves a second chance through rescue and rehabilitation.",
+    "email": "betterlifepet@gmail.com",
+    "website": "",
+    "phone": "",
+    "location": "Central Florida",
+    "specialties": ["Adoption", "Rehabilitation", "Dogs", "Cats"]
+  },
+  {
+    "id": "3",
+    "name": "Bully Up Rescue",
+    "description": "We are a 501c3 non-profit, volunteer, foster-based organization located in Central Florida. We aim at restoring the positive image of the bully breed.",
+    "email": "bullyuprescuecrew@gmail.com",
+    "website": "",
+    "phone": "",
+    "location": "Central Florida",
+    "specialties": ["Bully Breeds", "Foster-Based", "Dogs"]
+  },
+  {
+    "id": "4",
+    "name": "Ewenity Farm Herding Dog",
+    "description": "We are a small, foster-based rescue organization serving the state of Florida and the southeast United States.",
+    "email": "ewenityfarmdogrescue@gmail.com",
+    "website": "",
+    "phone": "",
+    "location": "Florida & Southeast US",
+    "specialties": ["Herding Dogs", "Foster-Based", "Dogs"]
+  },
+  {
+    "id": "5",
+    "name": "Furever Bully Love",
+    "description": "Saving the misunderstood. Foster based Florida 501c3 non-profit specializing in bully breeds. Voicing the voiceless",
+    "email": "info@fureverbullyloverescue.com",
+    "website": "",
+    "phone": "",
+    "location": "Florida",
+    "specialties": ["Bully Breeds", "Foster-Based", "Dogs"]
+  },
+  {
+    "id": "6",
+    "name": "Husky Haven",
+    "description": "Husky Haven of Florida is an organization 100% run by volunteers. If you'd like to help make a change, all you need is a little time and a lot of passion for this beautiful breed and rescue.",
+    "email": "huskyhavenfl@gmail.com",
+    "website": "",
+    "phone": "",
+    "location": "Florida",
+    "specialties": ["Huskies", "Volunteer-Run", "Dogs"]
+  },
+  {
+    "id": "7",
+    "name": "Lakeland Pitbull Advocates",
+    "description": "Through community outreach, we help dogs get vetted, neutered, and spayed, and provide food for those in need.",
+    "email": "lakelandpitbulladvocates@gmail.com",
+    "website": "",
+    "phone": "",
+    "location": "Lakeland, FL",
+    "specialties": ["Pitbulls", "Community Outreach", "Dogs"]
+  },
+  {
+    "id": "8",
+    "name": "Our Cause 4 Paws",
+    "description": "Here at Our Cause 4 Paws Rescue, we're committed to investing our expertise and resources in order to help dogs in need.",
+    "email": "ourcause4paws@gmail.com",
+    "website": "",
+    "phone": "",
+    "location": "Florida",
+    "specialties": ["General Rescue", "Dogs"]
+  },
+  {
+    "id": "9",
+    "name": "Paws of Hope Dog Rescue",
+    "description": "We are a dog rescue located in Haines City, FL. Officially opened in October 2023, but we have been \"unofficially\" rescuing animals for over 15 years.",
+    "email": "Pohdr23@gmail.com",
+    "website": "",
+    "phone": "",
+    "location": "Haines City, FL",
+    "specialties": ["General Rescue", "Dogs"]
+  },
+  {
+    "id": "10",
+    "name": "Polk County Bully Project",
+    "description": "We believe that we can end breed discrimination and cruelty by working together through education and community support.",
+    "email": "polkcountybullyproject@gmail.com",
+    "website": "",
+    "phone": "",
+    "location": "Polk County, FL",
+    "specialties": ["Bully Breeds", "Education", "Dogs"]
+  },
+  {
+    "id": "11",
+    "name": "Polka Dogz",
+    "description": "Our mission is to rescue, rehabilitate, and re-home dogs while educating the community on responsible pet ownership.",
+    "email": "aaron@polkadogz.org",
+    "website": "",
+    "phone": "",
+    "location": "Florida",
+    "specialties": ["Rescue", "Rehabilitation", "Education", "Dogs"]
+  },
+  {
+    "id": "12",
+    "name": "Poodle and Pooch",
+    "description": "We rescue the \"leftovers\" from animal control, the dogs nobody wants because they're older or suffer from neglect, abuse or have a medical need.",
+    "email": "intake@poodleandpoochrescue.org",
+    "website": "",
+    "phone": "",
+    "location": "Florida",
+    "specialties": ["Senior Dogs", "Medical Cases", "Neglect", "Dogs"]
+  },
+  {
+    "id": "13",
+    "name": "Rescue Rebels",
+    "description": "Since 2016, Rescue Rebels has fostered and placed hundreds of rescue dogs in their forever homes.",
+    "email": "rescue.rebels@yahoo.com",
+    "website": "",
+    "phone": "",
+    "location": "Florida",
+    "specialties": ["Foster-Based", "Dogs"]
+  },
+  {
+    "id": "14",
+    "name": "Touch of Grey",
+    "description": "Our goal is to take as many senior and special needs dogs as we can out of the shelter environment.",
+    "email": "info@touchofgreyrescue.com",
+    "website": "",
+    "phone": "",
+    "location": "Florida",
+    "specialties": ["Senior Dogs", "Special Needs", "Dogs"]
+  },
+  {
+    "id": "15",
+    "name": "Treasure Fur-Ever Pet Rescue",
+    "description": "We are dedicated to finding loving forever homes for dogs and cats in need.",
+    "email": "TreasureFureverAnimalRescue@gmail.com",
+    "website": "",
+    "phone": "",
+    "location": "Florida",
+    "specialties": ["Dogs", "Cats"]
+  },
+  {
+    "id": "16",
+    "name": "Pet Project USA",
+    "description": "We strive to make a lasting impact on animal welfare through collaborative efforts with underfunded shelters and communities",
+    "email": "info@petprojectusa.org",
+    "website": "",
+    "phone": "",
+    "location": "USA",
+    "specialties": ["Animal Welfare", "Shelter Support", "Dogs", "Cats"]
+  },
+  {
+    "id": "17",
+    "name": "Happy Trails",
+    "description": "We opened a brand new Community Resource Center for pet owners in 2019 that services Orange, Osceola and Seminole.",
+    "email": "happytrailsanimalrescue@yahoo.com",
+    "website": "",
+    "phone": "",
+    "location": "Orange, Osceola and Seminole Counties, FL",
+    "specialties": ["Community Resources", "Dogs", "Cats"]
+  }
+]

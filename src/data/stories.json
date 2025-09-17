@@ -1,0 +1,71 @@
+[
+  {
+    "id": "1",
+    "title": "From Shelter to Forever Home: Buddy's Journey",
+    "blurb": "How a scared shelter dog became the heart of a loving family",
+    "body": "Buddy arrived at our rescue scared and malnourished, having been found wandering the streets. His foster family, the Johnsons, took him in and provided the love and care he desperately needed. Within weeks, Buddy transformed from a timid, withdrawn dog into a confident, playful companion. The Johnsons fell in love with his gentle nature and decided to make him a permanent part of their family. Today, Buddy enjoys daily walks, playing fetch in the backyard, and cuddling with his new human siblings.",
+    "images": ["/images/stories/buddy-1.jpg", "/images/stories/buddy-2.jpg", "/images/stories/buddy-3.jpg"],
+    "fosterFamily": "The Johnson Family",
+    "date": "2024-01-15",
+    "petName": "Buddy",
+    "petBreed": "Golden Retriever Mix"
+  },
+  {
+    "id": "2",
+    "title": "Luna's Second Chance at Life",
+    "blurb": "A Border Collie's transformation from abandoned to adored",
+    "body": "Luna was found abandoned in a parking lot, but her story didn't end there. Our foster volunteer Sarah saw potential in this intelligent, energetic dog and took her home. With patience and training, Luna learned to trust again and discovered her love for agility training. Sarah's dedication paid off when Luna found her perfect match - a family with an active lifestyle who could provide the mental and physical stimulation she craved. Luna now competes in local agility competitions and is living her best life.",
+    "images": ["/images/stories/luna-1.jpg", "/images/stories/luna-2.jpg"],
+    "fosterFamily": "Sarah Mitchell",
+    "date": "2024-02-03",
+    "petName": "Luna",
+    "petBreed": "Border Collie Mix"
+  },
+  {
+    "id": "3",
+    "title": "Whiskers Finds His Purr-fect Match",
+    "blurb": "A senior cat's journey to his forever home",
+    "body": "At 5 years old, Whiskers was considered a senior cat when he came to our rescue. Many potential adopters passed him by, preferring younger cats. But the Martinez family saw something special in his calm, gentle demeanor. They were looking for a low-energy companion for their quiet home, and Whiskers was the perfect fit. Now, Whiskers spends his days lounging in sunny windows and his evenings curled up on the couch with his new family.",
+    "images": ["/images/stories/whiskers-1.jpg", "/images/stories/whiskers-2.jpg"],
+    "fosterFamily": "The Martinez Family",
+    "date": "2024-01-28",
+    "petName": "Whiskers",
+    "petBreed": "Domestic Shorthair"
+  },
+  {
+    "id": "4",
+    "title": "Bella's Big Adventure",
+    "blurb": "A young Lab's journey from uncertainty to confidence",
+    "body": "Bella was just a puppy when she came to us, but she had already experienced more than any dog should. Her foster mom, Jennifer, worked tirelessly to help Bella overcome her fears and build confidence. Through positive reinforcement training and lots of love, Bella blossomed into a confident, playful dog. When the Thompson family met her, it was love at first sight. Bella now enjoys hiking, swimming, and being the center of attention in her new home.",
+    "images": ["/images/stories/bella-1.jpg", "/images/stories/bella-2.jpg", "/images/stories/bella-3.jpg"],
+    "fosterFamily": "Jennifer Thompson",
+    "date": "2024-02-10",
+    "petName": "Bella",
+    "petBreed": "Labrador Mix"
+  },
+  {
+    "id": "5",
+    "title": "Shadow's Guardian Angel",
+    "blurb": "How a German Shepherd found his calling as a family protector",
+    "body": "Shadow came to us as a large, intimidating dog with trust issues. His foster dad, Mike, recognized that Shadow's protective instincts could be channeled positively with the right training. Through patient work and building trust, Shadow learned to be a gentle giant. When the Wilson family, who had experienced a break-in, was looking for a protective family dog, Shadow was the perfect match. He now serves as both a loving family member and a vigilant protector of his new home.",
+    "images": ["/images/stories/shadow-1.jpg", "/images/stories/shadow-2.jpg"],
+    "fosterFamily": "Mike Rodriguez",
+    "date": "2024-01-20",
+    "petName": "Shadow",
+    "petBreed": "German Shepherd Mix"
+  },
+  {
+    "id": "6",
+    "title": "Mittens' Royal Treatment",
+    "blurb": "A Persian cat's transformation from neglected to pampered",
+    "body": "Mittens arrived with matted fur and a timid personality, having been neglected in her previous home. Her foster mom, Lisa, spent hours gently grooming her and helping her regain her confidence. As Mittens' beautiful coat grew back and her personality emerged, it became clear she was a true diva at heart. The Anderson family, who had experience with long-haired cats, fell in love with her gentle nature and regal bearing. Mittens now enjoys being brushed daily and ruling over her new kingdom.",
+    "images": ["/images/stories/mittens-1.jpg", "/images/stories/mittens-2.jpg"],
+    "fosterFamily": "Lisa Anderson",
+    "date": "2024-02-05",
+    "petName": "Mittens",
+    "petBreed": "Persian Mix"
+  }
+]
+
+
+

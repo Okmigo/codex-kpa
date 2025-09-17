@@ -1,0 +1,47 @@
+{
+  "name": "keep-pets-alive",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack -p 3000 -H 0.0.0.0",
+    "dev:web": "NEXT_USE_TURBOPACK=0 WATCHPACK_POLLING=true BROWSER=none next dev -p 3000 --hostname 0.0.0.0",
+    "dev:detached": "nohup sh -c 'NEXT_USE_TURBOPACK=0 WATCHPACK_POLLING=true BROWSER=none next dev -p 3000 --hostname 0.0.0.0' > .next/dev.out 2>&1 & echo $! > .next/dev.pid",
+    "dev:stop": "kill -9 $(cat .next/dev.pid) 2>/dev/null && rm -f .next/dev.pid || true",
+    "build": "next build --turbopack",
+    "start": "next start -p 3000 -H 0.0.0.0",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^5.2.1",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "dayjs": "^1.11.18",
+    "js-cookie": "^3.0.5",
+    "lottie-react": "^2.4.1",
+    "lucide-react": "^0.542.0",
+    "next": "15.5.2",
+    "openai": "^5.19.1",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-hook-form": "^7.62.0",
+    "zod": "^4.1.5"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@tailwindcss/typography": "^0.5.16",
+    "@testing-library/jest-dom": "^6.8.0",
+    "@testing-library/react": "^16.3.0",
+    "@testing-library/user-event": "^14.6.1",
+    "@types/js-cookie": "^3.0.6",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.5.2",
+    "playwright": "^1.55.0",
+    "tailwindcss": "^4",
+    "typescript": "^5",
+    "vitest": "^3.2.4"
+  }
+}

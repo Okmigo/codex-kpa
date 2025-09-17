@@ -1,0 +1,101 @@
+[
+  {
+    "id": "1",
+    "name": "Buddy",
+    "age": "3 years",
+    "sex": "Male",
+    "size": "Large",
+    "breed": "Golden Retriever Mix",
+    "image": "/images/adoptables/buddy.jpg",
+    "temperament": ["Friendly", "Energetic", "Good with kids"],
+    "urgency": "High",
+    "description": "Buddy is a sweet, energetic boy who loves to play fetch and go on long walks. He's great with children and other dogs."
+  },
+  {
+    "id": "2",
+    "name": "Luna",
+    "age": "2 years",
+    "sex": "Female",
+    "size": "Medium",
+    "breed": "Border Collie Mix",
+    "image": "/images/adoptables/luna.jpg",
+    "temperament": ["Intelligent", "Active", "Loyal"],
+    "urgency": "Medium",
+    "description": "Luna is a smart, active girl who would thrive in a home with space to run and an owner who enjoys training."
+  },
+  {
+    "id": "3",
+    "name": "Whiskers",
+    "age": "5 years",
+    "sex": "Male",
+    "size": "Small",
+    "breed": "Domestic Shorthair",
+    "image": "/images/adoptables/whiskers.jpg",
+    "temperament": ["Calm", "Affectionate", "Indoor"],
+    "urgency": "Low",
+    "description": "Whiskers is a gentle, laid-back cat who loves to curl up in laps and watch the world go by."
+  },
+  {
+    "id": "4",
+    "name": "Bella",
+    "age": "1 year",
+    "sex": "Female",
+    "size": "Medium",
+    "breed": "Labrador Mix",
+    "image": "/images/adoptables/bella.jpg",
+    "temperament": ["Playful", "Social", "Trainable"],
+    "urgency": "High",
+    "description": "Bella is a young, playful pup who's eager to learn and would make a great family dog with proper training."
+  },
+  {
+    "id": "5",
+    "name": "Shadow",
+    "age": "4 years",
+    "sex": "Male",
+    "size": "Large",
+    "breed": "German Shepherd Mix",
+    "image": "/images/adoptables/shadow.jpg",
+    "temperament": ["Protective", "Loyal", "Active"],
+    "urgency": "Medium",
+    "description": "Shadow is a loyal, protective dog who would be perfect for an experienced owner who can provide structure and exercise."
+  },
+  {
+    "id": "6",
+    "name": "Mittens",
+    "age": "3 years",
+    "sex": "Female",
+    "size": "Small",
+    "breed": "Persian Mix",
+    "image": "/images/adoptables/mittens.jpg",
+    "temperament": ["Gentle", "Quiet", "Indoor"],
+    "urgency": "Low",
+    "description": "Mittens is a gentle, quiet cat who prefers a calm environment and would be perfect for apartment living."
+  },
+  {
+    "id": "7",
+    "name": "Max",
+    "age": "6 years",
+    "sex": "Male",
+    "size": "Medium",
+    "breed": "Beagle Mix",
+    "image": "/images/adoptables/max.jpg",
+    "temperament": ["Friendly", "Curious", "Good with kids"],
+    "urgency": "High",
+    "description": "Max is a friendly, curious dog who loves to explore and would be great with children who can keep up with his energy."
+  },
+  {
+    "id": "8",
+    "name": "Princess",
+    "age": "2 years",
+    "sex": "Female",
+    "size": "Small",
+    "breed": "Chihuahua Mix",
+    "image": "/images/adoptables/princess.jpg",
+    "temperament": ["Loving", "Energetic", "Good with adults"],
+    "urgency": "Medium",
+    "description": "Princess is a loving, energetic little dog who would be perfect for an adult-only home or one with older children."
+  }
+]
+
+
+

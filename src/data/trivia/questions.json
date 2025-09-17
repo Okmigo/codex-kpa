@@ -1,0 +1,125 @@
+[
+  {
+    "id": "1",
+    "question": "What is the most important thing to provide a foster pet?",
+    "choices": [
+      "Expensive toys",
+      "Love and a safe environment",
+      "Multiple meals per day",
+      "A large backyard"
+    ],
+    "answerIndex": 1,
+    "explanation": "While food and space are important, the most crucial thing you can provide a foster pet is love and a safe, stable environment where they can heal and learn to trust again."
+  },
+  {
+    "id": "2",
+    "question": "How long does the average foster period last?",
+    "choices": [
+      "1-2 weeks",
+      "2-8 weeks",
+      "3-6 months",
+      "6-12 months"
+    ],
+    "answerIndex": 1,
+    "explanation": "Most foster periods last 2-8 weeks, though this can vary based on the pet's needs, medical requirements, and how quickly they find their forever home."
+  },
+  {
+    "id": "3",
+    "question": "Who typically covers the costs of food and medical care for foster pets?",
+    "choices": [
+      "The foster family",
+      "The rescue organization",
+      "The adoptive family",
+      "Local veterinarians"
+    ],
+    "answerIndex": 1,
+    "explanation": "Rescue organizations typically cover all costs including food, medical care, and supplies. Foster families provide the love, time, and home environment."
+  },
+  {
+    "id": "4",
+    "question": "What should you do if your foster pet shows signs of illness?",
+    "choices": [
+      "Wait and see if it gets better",
+      "Contact the rescue organization immediately",
+      "Take them to any vet",
+      "Give them over-the-counter medication"
+    ],
+    "answerIndex": 1,
+    "explanation": "Always contact the rescue organization immediately if your foster pet shows signs of illness. They will guide you on the next steps and may have preferred veterinarians."
+  },
+  {
+    "id": "5",
+    "question": "What is the '3-3-3 rule' for newly adopted pets?",
+    "choices": [
+      "3 days to adjust, 3 weeks to settle, 3 months to feel at home",
+      "3 meals a day, 3 walks a day, 3 toys",
+      "3 hours of exercise, 3 hours of rest, 3 hours of play",
+      "3 vet visits, 3 training sessions, 3 grooming appointments"
+    ],
+    "answerIndex": 0,
+    "explanation": "The 3-3-3 rule helps set realistic expectations: 3 days to decompress, 3 weeks to learn routines, and 3 months to feel completely at home."
+  },
+  {
+    "id": "6",
+    "question": "What percentage of pets in shelters are euthanized each year?",
+    "choices": [
+      "5-10%",
+      "15-25%",
+      "30-40%",
+      "50-60%"
+    ],
+    "answerIndex": 1,
+    "explanation": "Approximately 15-25% of pets in shelters are euthanized each year, though this number varies by region and has been decreasing thanks to rescue efforts and spay/neuter programs."
+  },
+  {
+    "id": "7",
+    "question": "What is the best way to introduce a new pet to existing pets?",
+    "choices": [
+      "Let them meet immediately",
+      "Keep them separated for a few days first",
+      "Only introduce them outside",
+      "Wait at least a month"
+    ],
+    "answerIndex": 1,
+    "explanation": "It's best to keep new pets separated for a few days, allowing them to get used to each other's scents through doors before face-to-face introductions."
+  },
+  {
+    "id": "8",
+    "question": "What should you do if you can no longer foster a pet?",
+    "choices": [
+      "Find a new home yourself",
+      "Contact the rescue organization",
+      "Take them to a shelter",
+      "Keep them anyway"
+    ],
+    "answerIndex": 1,
+    "explanation": "Always contact the rescue organization if you can no longer foster. They have protocols in place to find alternative arrangements and ensure the pet's safety."
+  },
+  {
+    "id": "9",
+    "question": "How often should you update the rescue organization about your foster pet?",
+    "choices": [
+      "Only if there's a problem",
+      "Weekly or as requested",
+      "Monthly",
+      "Never"
+    ],
+    "answerIndex": 1,
+    "explanation": "Regular communication is important. Most rescue organizations appreciate weekly updates or updates as specifically requested to track the pet's progress."
+  },
+  {
+    "id": "10",
+    "question": "What is the primary goal of fostering?",
+    "choices": [
+      "To keep the pet permanently",
+      "To prepare the pet for adoption",
+      "To train the pet for service work",
+      "To breed the pet"
+    ],
+    "answerIndex": 1,
+    "explanation": "The primary goal of fostering is to prepare the pet for adoption by providing a safe, loving environment where they can heal, learn, and become ready for their forever home."
+  }
+]
+
+
+
