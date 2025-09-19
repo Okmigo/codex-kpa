@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bring Happiness Home - Keep Pets Alive</title>
+    <style>
+        @page {
+            size: Letter;
+            margin: 0;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            color: #0F172A;
+            background: #FFFFFF;
+            line-height: 1.5;
+        }
+        
+        .page {
+            width: 8.5in;
+            height: 11in;
+            padding: 0.5in;
+            display: flex;
+            flex-direction: column;
+            background: #FFFFFF;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 0.35in;
+        }
+        
+        h1 {
+            font-size: 42px;
+            font-weight: 700;
+            color: #0F172A;
+            margin-bottom: 4px;
+            letter-spacing: -0.5px;
+        }
+        
+        h2 {
+            font-size: 20px;
+            font-weight: 400;
+            color: #F97316;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+        
+        .urgency-banner {
+            background: #FEF3C7;
+            border-left: 4px solid #F97316;
+            padding: 12px 20px;
+            margin-bottom: 0.3in;
+            border-radius: 4px;
+        }
+        
+        .urgency-text {
+            font-size: 15px;
+            color: #92400E;
+            font-weight: 600;
+        }
+        
+        .dogs-grid {
+            display: flex;
+            flex-direction: column;
+            gap: 0.25in;
+            margin-bottom: 0.35in;
+        }
+        
+        .dog-row {
+            display: flex;
+            justify-content: center;
+            gap: 0.3in;
+        }
+        
+        .dog-card {
+            text-align: center;
+            width: 2in;
+        }
+        
+        .dog-name {
+            font-size: 14px;
+            font-weight: 600;
+            color: #64748B;
+            margin-bottom: 6px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .dog-image {
+            width: 2in;
+            height: 2.5in;
+            border: 2px solid #E2E8F0;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #F8FAFC;
+            margin-bottom: 8px;
+        }
+        
+        .dog-image svg {
+            width: 60px;
+            height: 60px;
+            fill: #CBD5E1;
+        }
+        
+        .dog-description {
+            font-size: 12px;
+            color: #475569;
+            line-height: 1.4;
+        }
+        
+        .action-section {
+            display: flex;
+            gap: 0.4in;
+            align-items: flex-start;
+            margin-bottom: 0.3in;
+            padding: 0.2in;
+            background: #F8FAFC;
+            border-radius: 8px;
+        }
+        
+        .qr-container {
+            text-align: center;
+            flex-shrink: 0;
+        }
+        
+        .qr-placeholder {
+            width: 1.5in;
+            height: 1.5in;
+            border: 2px solid #0F172A;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 8px;
+            background: #FFFFFF;
+        }
+        
+        .qr-caption {
+            font-size: 18px;
+            font-weight: 700;
+            color: #F97316;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .info-section {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        
+        .info-block {
+            font-size: 13px;
+            color: #334155;
+        }
+        
+        .info-label {
+            font-weight: 600;
+            color: #0F172A;
+            margin-bottom: 2px;
+        }
+        
+        .deadline {
+            background: #FEE2E2;
+            padding: 8px 12px;
+            border-radius: 4px;
+            font-weight: 600;
+            color: #991B1B;
+        }
+        
+        footer {
+            margin-top: auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-end;
+            padding-top: 0.2in;
+            border-top: 1px solid #E2E8F0;
+        }
+        
+        .logo-group {
+            display: flex;
+            gap: 0.3in;
+            align-items: center;
+        }
+        
+        .logo-placeholder {
+            width: 1.5in;
+            height: 0.6in;
+            border: 1px solid #CBD5E1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 10px;
+            color: #94A3B8;
+            background: #F8FAFC;
+        }
+        
+        .contact-info {
+            text-align: right;
+            font-size: 12px;
+            color: #64748B;
+        }
+    </style>
+</head>
+<body>
+    <div class="page">
+        <header>
+            <h1>Bring Happiness Home</h1>
+            <h2>Last Chance Spotlight</h2>
+        </header>
+        
+        <!-- Urgency Note -->
+        <div class="urgency-banner">
+            <div class="urgency-text">
+                <!-- [Urgency note placeholder] -->
+                Time is running out for these loving souls. They need a home today.
+            </div>
+        </div>
+        
+        <!-- Dogs Grid -->
+        <div class="dogs-grid">
+            <div class="dog-row">
+                <div class="dog-card">
+                    <div class="dog-name">Dog</div>
+                    <div class="dog-image">
+                        <!-- Dog 1 Image Placeholder -->
+                        <svg viewBox="0 0 24 24">
+                            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
+                        </svg>
+                    </div>
+                    <div class="dog-description">
+                        <!-- Dog 1 Description -->
+                        A gentle soul who loves belly rubs and quiet afternoons.
+                    </div>
+                </div>
+                
+                <div class="dog-card">
+                    <div class="dog-name">Dog</div>
+                    <div class="dog-image">
+                        <!-- Dog 2 Image Placeholder -->
+                        <svg viewBox="0 0 24 24">
+                            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
+                        </svg>
+                    </div>
+                    <div class="dog-description">
+                        <!-- Dog 2 Description -->
+                        Playful and loyal, waiting to be your best friend forever.
+                    </div>
+                </div>
+                
+                <div class="dog-card">
+                    <div class="dog-name">Dog</div>
+                    <div class="dog-image">
+                        <!-- Dog 3 Image Placeholder -->
+                        <svg viewBox="0 0 24 24">
+                            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
+                        </svg>
+                    </div>
+                    <div class="dog-description">
+                        <!-- Dog 3 Description -->
+                        Sweet senior who still has so much love to give.
+                    </div>
+                </div>
+            </div>
+            
+            <div class="dog-row">
+                <div class="dog-card">
+                    <div class="dog-name">Dog</div>
+                    <div class="dog-image">
+                        <!-- Dog 4 Image Placeholder -->
+                        <svg viewBox="0 0 24 24">
+                            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
+                        </svg>
+                    </div>
+                    <div class="dog-description">
+                        <!-- Dog 4 Description -->
+                        Young and energetic, perfect for an active family.
+                    </div>
+                </div>
+                
+                <div class="dog-card">
+                    <div class="dog-name">Dog</div>
+                    <div class="dog-image">
+                        <!-- Dog 5 Image Placeholder -->
+                        <svg viewBox="0 0 24 24">
+                            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
+                        </svg>
+                    </div>
+                    <div class="dog-description">
+                        <!-- Dog 5 Description -->
+                        Calm companion who dreams of cozy evenings with you.
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Action Section -->
+        <div class="action-section">
+            <div class="qr-container">
+                <div class="qr-placeholder">
+                    <!-- QR Code Placeholder -->
+                    <span style="font-size: 10px; color: #94A3B8;">QR CODE</span>
+                </div>
+                <div class="qr-caption">Adopt Today</div>
+            </div>
+            
+            <div class="info-section">
+                <div class="info-block">
+                    <div class="info-label">Our Mission</div>
+                    <!-- [Mission placeholder] -->
+                    Keep Pets Alive works tirelessly to save adoptable pets from euthanasia by connecting them with loving families.
+                </div>
+                
+                <div class="info-block">
+                    <div class="info-label">How to Adopt</div>
+                    <!-- [Adoption steps placeholder] -->
+                    Visit the shelter, meet your match, complete application, take home happiness. Same-day adoptions available.
+                </div>
+                
+                <div class="info-block deadline">
+                    <!-- [Deadline/date placeholder] -->
+                    CRITICAL: These pets face euthanasia by Tuesday, September 23rd
+                </div>
+            </div>
+        </div>
+        
+        <footer>
+            <div class="logo-group">
+                <div class="logo-placeholder">
+                    <!-- Orange County Animal Services Logo -->
+                    OCAS LOGO
+                </div>
+                <div class="logo-placeholder">
+                    <!-- Keep Pets Alive Logo -->
+                    KPA LOGO
+                </div>
+            </div>
+            
+            <div class="contact-info">
+                <!-- [Contact/location placeholder] -->
+                Orange County Animal Services<br>
+                2769 Conroy Road, Orlando, FL 32839<br>
+                (407) 836-3111 • Open Daily 10am-6pm
+            </div>
+        </footer>
+    </div>
+</body>
+</html>
