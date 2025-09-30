@@ -157,6 +157,8 @@ The app is a standard Next.js application and can be deployed to:
 - DigitalOcean App Platform
 - AWS Amplify
 
+> **Netlify tip:** if a Netlify build fails with `Host key verification failed` before the build even starts, the problem is with the Git connection. Follow the troubleshooting guide in [docs/netlify.md](docs/netlify.md) to reconnect the repository or deploy manually via the Netlify CLI.
+
 ## 🔌 Integration Points
 
 ### Payment Processing
