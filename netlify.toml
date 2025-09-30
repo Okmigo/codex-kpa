@@ -1,12 +1,10 @@
 [build]
   command = "pnpm run build"
+  publish = "out"
 
 [build.environment]
   PNPM_VERSION = "9.12.3"
   NODE_VERSION = "20"
-
-[dev]
-  command = "pnpm run dev"
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
