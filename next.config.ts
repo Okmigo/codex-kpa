@@ -3,9 +3,6 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   output: "export",
   trailingSlash: true,
-  // This is the key fix - tells Next.js where to find assets in static export
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/codex-kpa' : '',
-  basePath: process.env.NODE_ENV === 'production' ? '/codex-kpa' : '',
   images: {
     unoptimized: true,
   },
