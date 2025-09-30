@@ -6,5 +6,4 @@
   PNPM_VERSION = "9.12.3"
   NODE_VERSION = "20"
 
-[[plugins]]
-  package = "@netlify/plugin-nextjs"
+# Removed [[plugins]] section - @netlify/plugin-nextjs conflicts with static export
