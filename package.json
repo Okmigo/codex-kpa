@@ -7,7 +7,7 @@
     "dev:web": "NEXT_USE_TURBOPACK=0 WATCHPACK_POLLING=true BROWSER=none next dev -p 3000 --hostname 0.0.0.0",
     "dev:detached": "nohup sh -c 'NEXT_USE_TURBOPACK=0 WATCHPACK_POLLING=true BROWSER=none next dev -p 3000 --hostname 0.0.0.0' > .next/dev.out 2>&1 & echo $! > .next/dev.pid",
     "dev:stop": "kill -9 $(cat .next/dev.pid) 2>/dev/null && rm -f .next/dev.pid || true",
-    "build": "next build --turbopack",
+    "build": "next build",
     "start": "next start -p 3000 -H 0.0.0.0",
     "lint": "eslint"
   },
